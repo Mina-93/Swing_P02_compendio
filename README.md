@@ -133,19 +133,19 @@ public class Dialogo extends JDialog {
 > Solo debes darle dos veces al .jar que te crea la aplicacion y se ejecutara
 
 * Linea de comandos
- java ‘-jar c: rutadelarchivo.jar
+> java ‘-jar c: rutadelarchivo.jar
 ### Construido con
 ***
-
+Eclipse
 ### Versionado
 ***
-
+Version 1.0
 ### Autores
 ****
-* Marina del Aguila Jimenez
+**Marina del Aguila Jimenez**
 ### Licencia
 ***
-
+EPL (Licencia Publica)
 ### Recursos adicionales
 ***
 * [Enlace GitHub](https://github.com/Mina-93/Swing_P02_compendio.git)
