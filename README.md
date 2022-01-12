@@ -14,20 +14,30 @@
 Este proyecto consiste en la creacion de una interfaz gráfica que permite gestionar una plataforma de pisos de 
 alquiler turistico, siguiendo los estandares basicos de usabilidad
 ### Contenido de la publicacion
+***
 
 ### Desarrollo del proyecto
+***
 
 ### Despliegue
+***
 * Windows
-* Linea de comandos
+> Solo debes darle dos veces al .jar que te crea la aplicacion y se ejecutara
 
+* Linea de comandos
+> java ‘-jar c: rutadelarchivo.jar
 ### Construido con
+***
 
 ### Versionado
+***
 
 ### Autores
-
+****
+* Marina del Aguila Jimenez
 ### Licencia
+***
 
 ### Recursos adicionales
+***
 * [Enlace GitHub](https://github.com/Mina-93/Swing_P02_compendio.git)
